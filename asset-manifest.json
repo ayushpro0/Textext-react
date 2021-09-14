@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Textext-react/static/css/main.a4a20492.chunk.css",
+    "main.js": "/Textext-react/static/js/main.84029e54.chunk.js",
+    "main.js.map": "/Textext-react/static/js/main.84029e54.chunk.js.map",
+    "runtime-main.js": "/Textext-react/static/js/runtime-main.6587e675.js",
+    "runtime-main.js.map": "/Textext-react/static/js/runtime-main.6587e675.js.map",
+    "static/js/2.088b7bfe.chunk.js": "/Textext-react/static/js/2.088b7bfe.chunk.js",
+    "static/js/2.088b7bfe.chunk.js.map": "/Textext-react/static/js/2.088b7bfe.chunk.js.map",
+    "static/js/3.32d4b411.chunk.js": "/Textext-react/static/js/3.32d4b411.chunk.js",
+    "static/js/3.32d4b411.chunk.js.map": "/Textext-react/static/js/3.32d4b411.chunk.js.map",
+    "index.html": "/Textext-react/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/Textext-react/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.088b7bfe.chunk.js.LICENSE.txt": "/Textext-react/static/js/2.088b7bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6587e675.js",
+    "static/js/2.088b7bfe.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.84029e54.chunk.js"
+  ]
+}
